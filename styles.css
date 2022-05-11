@@ -63,6 +63,12 @@ h3 {
     cursor: pointer;
 }
 
+.seletor + footer {
+    margin-top: 50px;
+    font-weight: 100;
+    font-size: 35px;
+}
+
 /* Fim da atividade CSS 02 */
 
 
